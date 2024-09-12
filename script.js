@@ -11,7 +11,7 @@ function setDate() {
 
   //To calculate the rotation degrees
   const secondDegree = (getSecond / 60) * 360;
-  const minuteDegree = (getMinute / 60) * 360;
+  const minuteDegree = (getMinute / 60) * 360; 
   const hourDegree = (getHour / 12) * 360;
 
   second.style.transform = `rotate(${secondDegree}deg)`;
