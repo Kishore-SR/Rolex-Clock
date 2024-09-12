@@ -2,7 +2,7 @@
 
 This is a classic Rolex-style analog clock that shows the current time based on the user's browser.
 
-[![Project Link](https://img.shields.io/badge/Clock%20Link-37a779?style=for-the-badge)](https://bat-ball-wicket.web.app/)
+[![Project Link](https://img.shields.io/badge/Clock%20Link-37a779?style=for-the-badge)](https://rolex-clock.web.app/)
 
 ### Features
 
