@@ -65,49 +65,49 @@ img {
 
 .one {
   top: 30px;
-  right: 70px;
+  right: 80px;
   font-size: 18px;
 }
 
 .two {
-  top: 70px;
-  right: 30px;
+  top: 85px;
+  right: 20px;
   font-size: 18px;
 }
 
 .four {
-  bottom: 70px;
-  right: 30px;
+  bottom: 85px;
+  right: 20px;
   font-size: 18px;
 }
 
 .five {
-  bottom: 30px;
-  right: 70px;
+  bottom: 40px;
+  right: 50px;
   font-size: 18px;
 }
 
 .seven {
-  bottom: 30px;
-  left: 70px;
+  bottom: 40px;
+  left: 50px;
   font-size: 18px;
 }
 
 .eight {
-  bottom: 70px;
-  left: 30px;
+  bottom: 85px;
+  left: 20px;
   font-size: 18px;
 }
 
 .ten {
-  top: 70px;
-  left: 30px;
+  top: 85px;
+  left: 20px;
   font-size: 18px;
 }
 
 .eleven {
-  top: 30px;
-  left: 70px;
+  top: 40px;
+  left: 50px;
   font-size: 18px;
 }
 
